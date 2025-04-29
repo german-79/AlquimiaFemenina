@@ -24,12 +24,12 @@
 
 }
 
-.productos-item > div {
+.productos-item>div {
     margin-top: auto;
 }
 
 .productos-item p {
-    text-align: left;        
+    text-align: left;
 }
 
 .botonCarrito {
@@ -52,4 +52,4 @@
 .precio {
     font-weight: bold;
     color: rgb(206, 118, 131);
-    }
+}
